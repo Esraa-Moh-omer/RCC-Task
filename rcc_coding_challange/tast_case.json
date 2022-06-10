@@ -1,0 +1,56 @@
+
+{
+  "data":[
+  {
+    "id" : 1 ,
+    "name" : "Esra",
+    "age": 19
+  },
+  {
+    "id" : 2,
+    "name": "Dwayne",
+    "age": 30
+  },
+  {
+    "id" : 3,
+    "name": "Azure",
+    "age": 15
+  },
+  {
+    "id" : 4,
+    "name": "Deco",
+    "age": 23
+  },
+  {
+    "id" : 5,
+    "name": "Gemini",
+    "age": 27
+  },
+  {
+    "id" : 6,
+    "name": "Lumber",
+    "age": 16
+  },
+  {
+    "id" : 7,
+    "name": "Mitchell",
+    "age": 35
+  },
+  {
+    "id" : 8,
+    "name": "Wood",
+    "age": 44
+  },
+  {
+    "id" : 9,
+    "name": "Chester",
+    "age": 50
+  },
+  {
+    "id" : 10,
+    "name": "Jackson",
+    "age": 13
+  }
+]
+}
+
